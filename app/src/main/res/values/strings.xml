@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CameraNotes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_image">Add Image</string>
+    <string name="title_activity_display_image">DisplayImage</string>
+    <string name="image_information">Image Information</string>
+    <string name="menu_item_image">Add Image</string>
+    <string name="menu_item_uninstall">Remove App</string>
+
+</resources>
